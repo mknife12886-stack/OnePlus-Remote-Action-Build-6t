@@ -13,8 +13,8 @@ on:
         type: choice
         options:
           # OOS16
-          - OP15_oos16
-        default: OP15_oos16
+          - OP-ACE-6T_oos16
+        default: OP-ACE-6T_oos16
       ksu_options:
         description: 'Enter KernelSU build json'
         required: true
